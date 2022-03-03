@@ -1,0 +1,38 @@
+#coin-selector {}
+
+.coin-selector-container {
+    margin-top: 5%;
+}
+
+.coin-selector-row {}
+
+.data-container {
+    margin-top: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.actual_price {
+    height: 100px;
+    width: 350px;
+    padding: 5px;
+    background-color: #D0EAFE;
+    border-radius: 5px;
+}
+
+.predicted_price {
+    height: 50px;
+    width: 350px;
+    padding: 5px;
+    background-color: #49ADF8;
+    border-radius: 5px;
+}
+
+.error {
+    height: 50px;
+    width: 350px;
+    padding: 5px;
+    background-color: #DF5001;
+    border-radius: 5px;
+}

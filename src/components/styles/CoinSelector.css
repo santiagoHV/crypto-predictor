@@ -1,0 +1,16 @@
+.coin-selector {
+    min-height: 1000px;
+}
+
+.coin-selector h2 {
+    margin: 30px;
+}
+
+.selector {
+    margin: 30px;
+    display: flex;
+}
+
+.coin-item {
+    margin-left: 25px;
+}
